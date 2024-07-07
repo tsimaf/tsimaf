@@ -16,7 +16,8 @@ Python, PostgreSQL, Tableau, Git, Pandas, Seaborn, Matplotlib, Plotly, Folium, N
 ### My Repositories:
 | #    | Repository name                | Description                                                    |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.| [portfolio](https://github.com/tsimaf/portfolio) | A repository with my educational projects (Data Analyst) |
+| 1.| [personal-statistics](https://github.com/tsimaf/personal-statistics) | Pet-project: personal statistics of football matches |
+| 2.| [portfolio](https://github.com/tsimaf/portfolio) | A repository with my educational projects (Data Analyst) |
 
 
 [telegram]: https://t.me/tsimlu
