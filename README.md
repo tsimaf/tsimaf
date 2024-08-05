@@ -17,8 +17,9 @@ Python, PostgreSQL, Tableau, Git, Pandas, Seaborn, Matplotlib, Plotly, Folium, N
 ### My Repositories:
 | #    | Repository name                | Description                                                    |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.| [personal-statistics](https://github.com/tsimaf/personal-statistics) | Pet project: Research analysis of an athlete’s personal career to identify patterns and create an interactive report in Tableau. |
-| 2.| [portfolio](https://github.com/tsimaf/portfolio) | A repository with my educational projects (Data Analyst) |
+| 1.| [hospital](https://github.com/tsimaf/hospital) | Project for State Pediatric Medical University (Position - **Data Analyst**). Based on data on the hospitalization of patients at the medical center, conduct ad-hoc data research and prepare a report in the BI system. Determine the days that have passed from the issuance of the referral to the patient’s admission to the medical center, and determine what influences the duration. **Tools: PostgreSQL, Python, DataLens.** |
+| 2.| [personal-statistics](https://github.com/tsimaf/personal-statistics) | Pet project (Position - **Data Analyst**): Research analysis of an athlete’s personal career to identify patterns and create an interactive report in Tableau. **Tools: Python, Tableau.** |
+| 3.| [portfolio](https://github.com/tsimaf/portfolio) | A repository with my educational projects (Position - **Data Analyst**). **Tools: Python, PostgreSQL, Tableau.** |
 
 
 [linkedin]: https://www.linkedin.com/in/tsimaf/
